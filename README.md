@@ -1,0 +1,3 @@
+### A ECommerce application structured with ASP.NET Core Web API, Onion Architecture and Angular.
+
+Details will be added at a later time... 
